@@ -4,7 +4,6 @@ A premium, modern, creative, and fully responsive personal portfolio website bui
 
 ## Technologies Used
 
-
 * HTML5
 * CSS3
 * Vanilla JavaScript
